@@ -1,0 +1,7 @@
+# Ignorar archivos de entorno con credenciales
+.env
+*.env
+dotenv
+
+# Ignorar carpeta de datos
+data/
